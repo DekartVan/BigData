@@ -6,6 +6,7 @@
 ![2](https://github.com/DekartVan/BigData/assets/60447026/41e44d7a-7166-4eae-970f-ba1f62ef4d68)
 
 Созданы дочерние узлы.
+
 ![3](https://github.com/DekartVan/BigData/assets/60447026/a75cb46b-4d23-4204-95e3-f5890836fcb6)
 
 Был создан новый узел /mygroup. Через новые консоли были созданы эфимерные узлы.
